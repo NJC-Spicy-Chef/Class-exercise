@@ -1,5 +1,4 @@
 import random
-import antigravity
 # Page 12 Exercise 2 (20 min.)
 # 1. Create a list of 20 numbers, randomly assigned.
 # 2. To generate the list, we can use:
