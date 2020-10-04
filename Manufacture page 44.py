@@ -1,7 +1,7 @@
-'''ExerciseGiven the year of manufacture of a car,
-write a program to calculate how many years have
-elapsed since production. Print the results in a nice format.1.Calculate the number of months elapsed since production.
-2.How about the number of days?'''
+# ExerciseGiven the year of manufacture of a car,
+# write a program to calculate how many years have
+# elapsed since production. Print the results in a nice format.1.Calculate the number of months elapsed since production.
+# How about the number of days?'''
 
 import datetime
 
